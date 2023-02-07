@@ -2,3 +2,5 @@ For Web 3.0
 https://ethereum.org/en/web3/
 For chat app architecture
 https://www.cometchat.com/blog/chat-application-architecture-and-system-design
+For Ace Frontend interview
+https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823
